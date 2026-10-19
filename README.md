@@ -1,0 +1,2 @@
+# premium-stevenson-001-stevenson-screen-shelter-const
+Tired of finding conflicting Stevenson screen plans online that leave you with a shelter that skews your weather data? Build with confidence using a construction planner that ensures your screen meets WMO standards from the first cut.  This Notion template transforms a complex DIY project into a manageable, step-by-step process. It centralizes all
